@@ -1,4 +1,4 @@
-### Hi there 👋, My name is Luka Shermadini
+https://t.me/LukaShermadini### Hi there 👋, My name is Luka Shermadini
 #### Python Developer
 I am a Python developer with education and experience in the Skypro team. My professional efforts are focused on creating high-quality web applications using Django and Django REST Framework (DRF). My experience includes successful interaction with various APIs, and the following key qualities:
 
@@ -14,5 +14,5 @@ Skills: Git / Django / DRF / API / Docker / PostgreSQL / Backend / Celery / Linu
 
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Sherika91)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/telegram.svg' alt='telegram' height='40'>](https://t.me/LukaShermadini)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/luka.shermadini8/)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Sherika91)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/telegram.svg' alt='telegram' height='40'>]([https://t.me/LukaShermadini](https://t.me/LukaShermadini))  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/luka.shermadini8/)  
 
