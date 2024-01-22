@@ -1,4 +1,4 @@
-## Hi there 👋, I'm Luka Shermadini
+## Hi there 👋, &nbsp;I'm Luka Shermadini
 
 ### Python Developer
 
