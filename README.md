@@ -1,4 +1,4 @@
-https://t.me/LukaShermadini### Hi there 👋, My name is Luka Shermadini
+### Hi there 👋, My name is Luka Shermadini
 #### Python Developer
 I am a Python developer with education and experience in the Skypro team. My professional efforts are focused on creating high-quality web applications using Django and Django REST Framework (DRF). My experience includes successful interaction with various APIs, and the following key qualities:
 
