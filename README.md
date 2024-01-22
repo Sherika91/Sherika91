@@ -29,6 +29,8 @@ I am a passionate Python developer with a strong educational background and hand
 
 ### Connect with me
 
-[<img src='https://cdn.iconscout.com/icon/free/png-256/free-github-159-721954.png?f=webp&w=64' alt='github'>](https://github.com/Sherika91) 
-[<img src='https://cdn.iconscout.com/icon/free/png-512/free-telegram-3-226554.png?f=webp&w=64' alt='telegram'>](https://t.me/LukaShermadini) 
+[<img src='https://cdn.iconscout.com/icon/free/png-256/free-github-159-721954.png?f=webp&w=64' alt='github'>](https://github.com/Sherika91)
+&nbsp; 
+[<img src='https://cdn.iconscout.com/icon/free/png-512/free-telegram-3-226554.png?f=webp&w=64' alt='telegram'>](https://t.me/LukaShermadini)
+&nbsp; 
 [<img src='https://cdn.iconscout.com/icon/free/png-512/free-facebook-2038471-1718509.png?f=webp&w=64' alt='facebook'>](https://www.facebook.com/luka.shermadini8/)
