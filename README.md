@@ -10,6 +10,8 @@ Aspiration for development in the IT field: Actively update my knowledge in the 
 
 Friendliness and readiness for collaboration: Open to working in a team, have a friendly character, and ready to help colleagues achieve common goals.
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sherika91)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **Sherika91/Sherika91** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
