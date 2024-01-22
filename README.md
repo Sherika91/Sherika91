@@ -14,5 +14,5 @@ Skills: Git / Django / DRF / API / Docker / PostgreSQL / Backend / Celery / Linu
 
 
 
-[<img src='https://cdn.iconscout.com/icon/free/png-256/free-github-159-721954.png?f=webp&w=256' alt='github' height='40'>](https://github.com/Sherika91)  [<img src='https://cdn.iconscout.com/icon/free/png-512/free-telegram-3-226554.png?f=webp&w=256' alt='telegram' height='40'>](https://t.me/LukaShermadini)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/luka.shermadini8/)  
+[<img src='https://cdn.iconscout.com/icon/free/png-256/free-github-159-721954.png?f=webp&w=256' alt='github' height='40'>](https://github.com/Sherika91)  [<img src='https://cdn.iconscout.com/icon/free/png-512/free-telegram-3-226554.png?f=webp&w=256' alt='telegram' height='40'>](https://t.me/LukaShermadini)  [<img src='https://cdn.iconscout.com/icon/free/png-512/free-facebook-2038471-1718509.png?f=webp&w=256' alt='facebook' height='40'>](https://www.facebook.com/luka.shermadini8/)  
 
