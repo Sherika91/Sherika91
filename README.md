@@ -1,4 +1,4 @@
-### Hi there 👋, My name is Luka Shermadini
+### Hi there 👋, I'm Luka Shermadini
 #### Python Developer
 I am a Python developer with education and experience in the Skypro team. My professional efforts are focused on creating high-quality web applications using Django and Django REST Framework (DRF). My experience includes successful interaction with various APIs, and the following key qualities:
 
@@ -11,6 +11,7 @@ Aspiration for development in the IT field: Actively update my knowledge in the 
 Friendliness and readiness for collaboration: Open to working in a team, have a friendly character, and ready to help colleagues achieve common goals.
 
 Skills: Git / Django / DRF / API / Docker / PostgreSQL / Backend / Celery / Linux / ООП / CI/CD / GitHub / JWT / OAuth2.0 / Bootstrap / Redis / Pytest / Unittest / Python
+
 
 
 
