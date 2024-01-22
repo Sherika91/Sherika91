@@ -1,4 +1,4 @@
-### Hi there 👋, <sp> I'm Luka Shermadini
+### Hi there 👋, I'm Luka Shermadini
 
 #### Python Developer
 
@@ -12,7 +12,7 @@ I am a passionate Python developer with a strong educational background and hand
 
 - **Collaborative mindset:** Friendly and ready to collaborate, with excellent teamwork skills to achieve common goals.
 
-#### Skills
+# 💻 Teck Stack
 
 Git / Django / DRF / API / Docker / PostgreSQL / Backend / Celery / Linux / ООП / CI/CD / GitHub / JWT / OAuth2.0 / Bootstrap / Redis / Pytest / Unittest / Python
 
