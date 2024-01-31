@@ -25,7 +25,13 @@ I am a passionate Python developer with a strong educational background and hand
 ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
 ![Celery](https://img.shields.io/badge/celery-%23a9cc54.svg?style=for-the-badge&logo=celery&logoColor=ddf4a4)<br>
 
-### Connect with me
+
+
+# 📫 Contact Me On 
+- 📧 Email: Shermadinil.luka@gmail.com
+- 📞 Phone: +995 599 22 53 29
+- 📱 LinkedIn:
+
 
 [<img src='https://cdn.iconscout.com/icon/free/png-256/free-github-159-721954.png?f=webp&w=64' alt='github'>](https://github.com/Sherika91)
 &nbsp; 
