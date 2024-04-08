@@ -30,7 +30,7 @@ I am a passionate Python developer with a strong educational background and hand
 # 📫 Contact Me On 
 - 📧 Email: Shermadinil.luka@gmail.com
 - 📞 Phone: +995 599 22 53 29
-- 📱 LinkedIn: www.linkedin.com/in/sherika91
+- 📱 LinkedIn: www.linkedin.com/in/luka-shermadini
 
 
 [<img src='https://cdn.iconscout.com/icon/free/png-256/free-github-159-721954.png?f=webp&w=64' alt='github'>](https://github.com/Sherika91)
